@@ -55,16 +55,11 @@ GitHub | JIRA | Jenkins | Pega
 
 ---
 
-## 📈 GitHub Stats  
-
-![Alpana's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpnaP&show_icons=true)
-
----
 
 ## 🌐 Connect With Me  
 
 🔗 LinkedIn: https://www.linkedin.com/in/alpnap/  
-📸 Instagram: https://www.instagram.com/the_alp_darpan/  
+📸 Instagram: https://www.instagram.com/codewithalpana/  
 📺 YouTube: https://www.youtube.com/@CodeWithAlpana  
 🌍 Portfolio: https://alpnap.netlify.app  
 
