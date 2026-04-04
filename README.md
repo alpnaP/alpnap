@@ -1,22 +1,12 @@
-# Hi, I'm Alpana 👋  
+# Hi there, I'm Alpana!
 
-🚀 Senior Software Engineer at Capgemini  
-💻 Frontend Engineer | React | Angular | JavaScript  
-🧠 Exploring Generative AI & Prompt Engineering  
-📈 Tech Content Creator | 100K+ Community  
+I'm a **Software Engineer** , specializing in frontend development with a passion for building scalable, high-performance web applications. I enjoy turning complex problems into clean, efficient, and user-friendly solutions.
 
----
-
-## 💼 About Me  
-
-I’m a frontend-focused software engineer with experience in building scalable, high-performance web applications.  
-I enjoy turning complex problems into simple, efficient, and user-friendly solutions.  
-
-Currently working at Capgemini, I contribute to enterprise-level applications and continuously explore modern technologies to improve performance and scalability.  
+Currently exploring the intersection of **Generative AI** and modern frontend engineering — and sharing everything I learn with a community of 100K+.
 
 ---
 
-## 🚀 What I Do  
+## What I Do  
 
 - Build scalable and responsive web applications  
 - Develop clean and reusable UI components  
@@ -26,44 +16,28 @@ Currently working at Capgemini, I contribute to enterprise-level applications an
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack
 
-**Frontend:**  
-React.js | Angular | JavaScript | HTML5 | CSS  
+**Frontend**
+`React.js` `Angular` `JavaScript` `HTML5` `CSS`
 
-**Backend & Database:**  
-Node.js | MongoDB | GraphQL  
+**Backend & Database**
+`Node.js` `MongoDB` `GraphQL`
 
-**Tools & Platforms:**  
-GitHub | JIRA | Jenkins | Pega  
+**Tools & Platforms**
+`GitHub` `JIRA` `Jenkins` `Pega`
 
----
-
-## 🔥 Featured Projects  
-
-### 🚀 SaaS Dashboard *(Coming Soon)*  
-- Analytics dashboard with charts and real-time data  
-- Built using React and API integration  
-
-### 🤖 AI-Based Project *(Coming Soon)*  
-- Exploring Generative AI for smart automation  
-- Focused on real-world use cases  
-
-### 🛒 E-commerce UI / App *(Coming Soon)*  
-- Scalable and responsive UI  
-- Performance optimized  
 
 ---
 
 
-## 🌐 Connect With Me  
+## Connect With Me  
 
-🔗 LinkedIn: https://www.linkedin.com/in/alpnap/  
-📸 Instagram: https://www.instagram.com/codewithalpana/  
-📺 YouTube: https://www.youtube.com/@CodeWithAlpana  
-🌍 Portfolio: https://alpnap.netlify.app  
+1. LinkedIn: https://www.linkedin.com/in/alpnap/  
+2. Instagram: https://www.instagram.com/codewithalpana/  
+3. YouTube: https://www.youtube.com/@CodeWithAlpana  
+4. Portfolio: https://alpnap.netlify.app  
 
 ---
 
-## ⚡ Fun Fact  
 I love combining tech, creativity, and content to help others grow while growing myself 🚀  
