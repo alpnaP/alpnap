@@ -1,4 +1,4 @@
-# Hi there, I'm Alpana!
+# Hi there, I'm Alpna!
 
 I'm a **Software Engineer** , specializing in frontend development with a passion for building scalable, high-performance web applications. I enjoy turning complex problems into clean, efficient, and user-friendly solutions.
 
